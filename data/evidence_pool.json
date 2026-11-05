@@ -1,0 +1,203 @@
+{
+  "P1": {
+    "id": "P1",
+    "side": "pro",
+    "source": "Brynjolfsson, Li, Raymond (2025), Generative AI at Work, QJE 140(2):889–942",
+    "as_of": "2025",
+    "summary": "고객지원 상담원 5,172명 대상 실증 분석. 생성형 AI 도입 후 시간당 해결 건수 평균 15% 증가(NBER WP 14%). 특히 저숙련 및 신규 상담원에게 효과가 집중되어 2개월차가 6개월차 수준으로 숙련도 압축.",
+    "caveat": "단일 소프트웨어 기업의 텍스트 기반 고객상담 과업에 한정됨. 최고 숙련 상담원은 속도 소폭 상승 외에 품질 소폭 하락 관측.",
+    "url": "https://academic.oup.com/qje/article/140/2/889/7918884",
+    "verified": "primary"
+  },
+  "P2": {
+    "id": "P2",
+    "side": "pro",
+    "source": "Dell'Acqua et al. (2026), Navigating the Jagged Technological Frontier, Org. Sci. 37(2):403–423",
+    "as_of": "2026",
+    "summary": "BCG 컨설턴트 758명 RCT. AI 역량 범위 내 과업에서 12.2% 더 많은 과업 수행, 25.1% 속도 단축, 산출물 품질 40% 이상 향상. 하위 성과자 생산성 31% 향상 vs 상위 성과자 11% 향상으로 성과 격차 축소.",
+    "caveat": "기술적 프론티어 범위 밖(지적 판단 필요) 과업에서는 AI 사용자의 정답률이 19%p 급락하는 절벽 효과 관측.",
+    "url": "https://doi.org/10.1287/orsc.2025.1818",
+    "verified": "primary"
+  },
+  "P3": {
+    "id": "P3",
+    "side": "pro",
+    "source": "Noy & Zhang (2023), Experimental evidence on the productivity effects of generative artificial intelligence, Science 381(6654):187–192",
+    "as_of": "2023",
+    "summary": "전문 글쓰기 과업 재직자 453명 대상 RCT. 과업 소요 시간 40% 단축, 품질 평가 18% 향상. 하위 성과자 지원 효과가 커 불평등 완화.",
+    "caveat": "단기 온라인 통제 실험 환경이며, 장기적 창의성이나 실제 직무 전반의 지속성 검증은 추가 필요.",
+    "url": "https://www.science.org/doi/10.1126/science.adh2586",
+    "verified": "primary"
+  },
+  "P4": {
+    "id": "P4",
+    "side": "pro",
+    "source": "Peng et al. (2023), The Impact of AI on Developer Productivity: Evidence from GitHub Copilot, arXiv:2302.06590",
+    "as_of": "2023",
+    "summary": "개발자 95명 대상 RCT 실험. 웹 서버 구축 과업 완료 시간 55.8% 단축 (AI 사용군 71분 vs 대조군 161분).",
+    "caveat": "단일 웹 서버 프로그래밍 과업이며, 장기 코드 유지보수성 및 시스템 아키텍처 수준 검증은 미포함.",
+    "url": "https://arxiv.org/abs/2302.06590",
+    "verified": "primary"
+  },
+  "P5": {
+    "id": "P5",
+    "side": "pro",
+    "source": "David Autor (2015), Why Are There Still So Many Jobs?, Journal of Economic Perspectives 29(3):3–30",
+    "as_of": "2015",
+    "summary": "과업 기반 접근법(Task Approach). 기술은 정형화된 일상 과업을 대체하지만 문제해결, 창의성 등 인간의 비교우위 과업을 보완·증강하여 신규 직무 수요를 창출함.",
+    "caveat": "2015년 고전 연구로 LLM 기반 인지적 화이트칼라 직접 대체 충격은 분석에 포함되지 않음.",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/jep.29.3.3",
+    "verified": "primary"
+  },
+  "P6": {
+    "id": "P6",
+    "side": "pro",
+    "source": "Humlum & Vestergaard (2025), Generative AI and Labor Market Dynamics, NBER WP 33777",
+    "as_of": "2025",
+    "summary": "덴마크 11개 주요 직군 행정데이터 실증. ChatGPT 도입 후 2년간 소득 및 근로시간 변화 사실상 0(2% 초과 효과 배제), 평균 시간 절감 약 3% 수준.",
+    "caveat": "초기 2년 데이터이며, 생산성 혁신 이득이 시장의 기대치보다 크지 않다는 반론 소재로도 활용 가능.",
+    "url": "https://www.nber.org/papers/w33777",
+    "verified": "primary"
+  },
+  "P7": {
+    "id": "P7",
+    "side": "pro",
+    "source": "Yale Budget Lab (2025.10), Tracking the Labor Market Impacts of AI",
+    "as_of": "2025.10",
+    "summary": "ChatGPT 출시 후 33개월간 경제 전반 고용률, 실업률, 주당 근로시간 지표에서 거시적 교란 신호가 식별되지 않음.",
+    "caveat": "경기 사이클 효과 통제의 한계가 있으며, 기술의 잠재적 미래 충격을 예측한 보고서가 아님.",
+    "url": "https://budgetlab.yale.edu/research/tracking-labor-market-impacts-ai",
+    "verified": "primary"
+  },
+  "P8": {
+    "id": "P8",
+    "side": "pro",
+    "source": "국회예산정책처 (2026.09), 경제현안분석: 생성형 AI의 노동시장 영향",
+    "as_of": "2026.09",
+    "summary": "화이트칼라 1,512명 조사. 업무량 평균 21.2% 증가, 인력 변화 없음 62.6%. 산업 경기 통제 시 AI 고노출 직업의 청년 고용 감소는 통계적으로 비유의.",
+    "caveat": "연구진 스스로도 '증거 부족이 영향 없음을 의미하지 않는다'고 명시하며 잠정적 결과로 해석할 것을 당부.",
+    "url": "https://www.nabo.go.kr",
+    "verified": "primary"
+  },
+  "P9": {
+    "id": "P9",
+    "side": "pro",
+    "source": "Lambert & Schindler (2026), Generative AI and Junior Employment, LSE CEP Discussion Paper",
+    "as_of": "2026",
+    "summary": "미국·영국 등 4개국 이력서 데이터 분석. 신입 채용 비중 하락 관측되나, 재택근무(WFH) 노출도와 AI 노출도가 높은 상관을 보여 WFH 영향 혼재 가능성 제시.",
+    "caveat": "인과관계를 확정하지 못한 정책 브리프 수준의 서술적 통계.",
+    "url": "https://cep.lse.ac.uk",
+    "verified": "primary"
+  },
+  "P10": {
+    "id": "P10",
+    "side": "pro",
+    "source": "ETLA WP 135 (2026.01), AI Has Not Impacted the Youth Labor Market in Finland",
+    "as_of": "2026.01",
+    "summary": "핀란드 전수 행정 데이터 분석. AI 노출도가 높은 업종 및 직무에서 청년층 실업률 상승 또는 고용률 하락 효과 관측되지 않음.",
+    "caveat": "북유럽 특유의 유연안정성(Flexicurity) 노동시장 제도 특성이 강하게 반영되었을 수 있음.",
+    "url": "https://www.etla.fi/en/publications/working-papers/ai-has-not-impacted-the-youth-labor-market-in-finland/",
+    "verified": "primary"
+  },
+  "C1": {
+    "id": "C1",
+    "side": "con",
+    "source": "Brynjolfsson, Chandar, Chen (2025, 2026.08 개정), Canaries in the Coal Mine?",
+    "as_of": "2026.08",
+    "summary": "ADP 급여 데이터 수천만 명 분석. 22~25세 청년·AI 고노출 직군 고용이 덜 노출된 동년배 대비 약 19% 낮음(2026.8판). 자동화형 직군에서 하락 집중.",
+    "caveat": "저자들도 엄밀한 인과 추정이 아닌 서술적/기술적(descriptive) 지표로 해석함. 버전별 수치 상이(13%->16%->19%)하므로 2026.08 개정판 명기 필수.",
+    "url": "https://ssrn.com/abstract=4758832",
+    "verified": "primary"
+  },
+  "C2": {
+    "id": "C2",
+    "side": "con",
+    "source": "Hosseini Maasoum & Lichtinger (2025), SSRN 5425555",
+    "as_of": "2025",
+    "summary": "6,200만 이력서 및 28.5만 기업 분석. AI 도입 기업의 주니어 고용이 비도입 기업 대비 9~10% 감소, 시니어는 유지. 원인은 해고가 아닌 채용 둔화.",
+    "caveat": "워킹페이퍼 단계. 기업의 AI 도입 여부를 'AI 통합 담당 구인공고'로 대리 측정(Proxy)한 한계 존재.",
+    "url": "https://ssrn.com/abstract=5425555",
+    "verified": "primary"
+  },
+  "C3": {
+    "id": "C3",
+    "side": "con",
+    "source": "한국은행 BOK 이슈노트 제2025-30호(2025.10) 및 제2026-19호(2026.08)",
+    "as_of": "2025.10/2026.08",
+    "summary": "2022.7~2025.7 국민연금 데이터 분석. 청년(15~29세) 일자리 21.1만 개 감소 중 20.8만 개(98.6%)가 AI 고노출 업종에 집중. 반면 50대는 20.9만 개 증가(연공편향 기술변화). 후속 노트는 4년간 28.5만 감소 보고.",
+    "caveat": "한은도 AI 단독 요인으로 단정하지 않음(코로나 채용 정상화, 경력직 선호, WFH 확산 복합 작용). 보완/증강형 업종은 감소 제한적.",
+    "url": "https://www.bok.or.kr",
+    "verified": "primary"
+  },
+  "C4": {
+    "id": "C4",
+    "side": "con",
+    "source": "Daron Acemoglu (2025), The Simple Macroeconomics of AI, Economic Policy 40(121):13–58",
+    "as_of": "2025",
+    "summary": "향후 10년간 총요소생산성(TFP) 누적 상승 최대 0.66%, 보수적 0.53% 미만 추정. 자본-노동 분배 격차 확대 및 임금 불평등 심화 전망.",
+    "caveat": "과업 비용 절감률을 보수적으로 가정한 이론 모형에 기반함. KDI 추정치(+1.5~3.5%)와 현격한 차이.",
+    "url": "https://doi.org/10.1093/epolic/eiae038",
+    "verified": "primary"
+  },
+  "C5": {
+    "id": "C5",
+    "side": "con",
+    "source": "Acemoglu & Restrepo (2019), Automation and New Tasks, Journal of Economic Perspectives 33(2):3–30",
+    "as_of": "2019",
+    "summary": "대체 효과(Displacement)가 복원 효과(Reinstatement)를 능가할 때 노동 수요가 감소하고 국민소득 중 노동소득분배율이 하락함.",
+    "caveat": "생성형 AI 이전의 산업용 로봇 및 전통적 IT 자동화 데이터 중심 연구.",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/jep.33.2.3",
+    "verified": "primary"
+  },
+  "C6": {
+    "id": "C6",
+    "side": "con",
+    "source": "Eloundou et al. (2024), GPTs are GPTs, Science 384(6702):1306–1308",
+    "as_of": "2024.06",
+    "summary": "미국 전체 노동자의 약 80%가 업무 과업의 10% 이상이 LLM 노출권에 위치, 약 19%는 과업의 50% 이상 노출. 고임금·화이트칼라 노출도 집중.",
+    "caveat": "과업의 '노출도(Exposure)'는 일자리 '대체(Displacement)'와 동일하지 않으며, 생산성 도구로 흡수될 여지 큼.",
+    "url": "https://www.science.org/doi/10.1126/science.adj0998",
+    "verified": "primary"
+  },
+  "C7": {
+    "id": "C7",
+    "side": "con",
+    "source": "한국노동연구원 장지연 (2026.02), 월간 노동리뷰",
+    "as_of": "2026.02",
+    "summary": "전체 노동시장 일자리 감소 충격은 아직 제한적이나, 청년·정보통신업·사무행정 등 특정 집단에서 신규 진입 장벽 가시화.",
+    "caveat": "거시적 실업 대란이라기보다는 세대 간·직무 간 비대칭적 진입 지연에 초점.",
+    "url": "https://www.kli.re.kr",
+    "verified": "primary"
+  },
+  "M1": {
+    "id": "M1",
+    "side": "both",
+    "source": "KDI 남창우 (2026.07), AI의 거시경제 영향 분석",
+    "as_of": "2026.07",
+    "summary": "10년간 TFP 누적 +1.5~3.5%, 도입 기업 매출 약 20% 상승, 직종 간 임금불평등 소폭 개선. 동시에 10년 후 연 약 25.6만 개 일자리 감소 추정(중·고숙련 전문직 집중).",
+    "caveat": "찬성은 생산성·임금압축 효과를 인용하고, 반대는 25.6만 개 일자리 감소 추정을 인용함. 동일 연구에 대한 양측의 관점 대립 소재.",
+    "url": "https://www.kdi.re.kr",
+    "verified": "primary"
+  },
+  "M2": {
+    "id": "M2",
+    "side": "both",
+    "source": "IMF Staff Discussion Note (2024.01, SDN/2024/001)",
+    "as_of": "2024.01",
+    "summary": "전 세계 일자리의 40%(선진국 60%)가 AI 영향권. 절반은 생산성 향상 보완, 절반은 일자리 대체. 소득 불평등 심화 가능성 경고 및 사회안전망 제언.",
+    "caveat": "사회자 중재 프레임워크(보완 50% vs 대체 50%)의 이론적 기준점.",
+    "url": "https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-543507",
+    "verified": "primary"
+  },
+  "M3": {
+    "id": "M3",
+    "side": "both",
+    "source": "Dell'Acqua et al. (P2), BOK (C3), Brynjolfsson et al. (C1)",
+    "as_of": "2025-2026",
+    "summary": "AI를 단순히 인력 감축 수단인 '자동화형'으로 쓰느냐, 근로자 역량을 키우는 '증강형'으로 쓰느냐에 따라 생산성과 고용 결과가 극명하게 갈림.",
+    "caveat": "사회자가 양측의 극단적 대립을 중재하고 정책적 대안(직무 재설계, 직업훈련)으로 수렴시키는 핵심 쟁점 전환 프레임.",
+    "url": "composite",
+    "verified": "primary"
+  }
+}
+

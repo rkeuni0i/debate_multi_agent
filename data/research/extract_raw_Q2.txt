@@ -1,0 +1,66 @@
+```json
+{
+  "candidates": [
+    {
+      "title": "",
+      "authors": "",
+      "year": "2023",
+      "venue": "한국은행",
+      "url": "",
+      "claim": "한국 전체 취업자의 약 12%에 해당하는 341만 개의 일자리가 AI 기술에 의해 수행될 가능성이 높은 상위 20% 그룹(고위험군)에 속한다.",
+      "side": "con",
+      "search_query": "한국은행 2023 AI 고용 영향 거시경제연구 이슈노트"
+    },
+    {
+      "title": "",
+      "authors": "",
+      "year": "2023~2024",
+      "venue": "한국개발연구원",
+      "url": "",
+      "claim": "KDI는 AI가 한국 고용 총량에 미치는 순고용 증감 효과가 일각의 우려와 달리 '중립적'이거나 '소폭 증가'할 것으로 추정한다.",
+      "side": "pro",
+      "search_query": "한국개발연구원 KDI 2023 2024 AI 고용 영향 거시경제"
+    },
+    {
+      "title": "",
+      "authors": "",
+      "year": "2023",
+      "venue": "한국노동연구원",
+      "url": "",
+      "claim": "순고용 추이는 일부 정형화된 화이트칼라 및 사무직/제조관리직의 신규 채용이 점진적이고 장기적으로 감소하는 형태로 나타날 것으로 추정된다.",
+      "side": "both",
+      "search_query": "한국노동연구원 KLI 2023 AI 고용 영향"
+    },
+    {
+      "title": "",
+      "authors": "",
+      "year": "2023~2024",
+      "venue": "국회예산정책처",
+      "url": "",
+      "claim": "NABO는 AI가 부족해진 노동 투입량을 방어하여 잠재성장률의 급락을 막는 구원투수 역할을 수행한다고 평가한다.",
+      "side": "pro",
+      "search_query": "국회예산정책처 NABO 2023 2024 AI 고용 영향 중기 재정 경제 전망"
+    },
+    {
+      "title": "",
+      "authors": "",
+      "year": "2024",
+      "venue": "국제통화기금",
+      "url": "",
+      "claim": "한국과 같은 지식 기반 경제(선진국)의 일자리 중 약 60%가 향후 직간접적으로 AI의 파급 영향 아래 놓이게 된다.",
+      "side": "both",
+      "search_query": "IMF 2024 Gen-AI 거시경제 보고서 AI 고용 영향"
+    },
+    {
+      "title": "",
+      "authors": "다론 아세모글루",
+      "year": "2024",
+      "venue": "NBER Working Paper",
+      "url": "",
+      "claim": "향후 10년간 전체 노동 직무의 단 4.6%만이 경제적으로 타당하게 자동화될 것이라 단언했다.",
+      "side": "con",
+      "search_query": "Daron Acemoglu 2024 NBER Working Paper AI automation employment"
+    }
+  ]
+}
+```
